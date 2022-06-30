@@ -1,0 +1,32 @@
+[
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "nombre": "Franco",
+            "apellido": "Rodriguez",
+            "telefono": "2645706384",
+            "altura": "180",
+            "peso": "80"
+        }
+    },
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "nombre": "Lucas",
+            "apellido": "Fangio",
+            "telefono": 2644894768,
+            "altura": 172,
+            "peso": 60
+        }
+    },
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "nombre": "Juliana",
+            "apellido": "Martinez",
+            "telefono": 2644894768,
+            "altura": 172,
+            "peso": 60
+        }
+    }
+]
